@@ -1,4 +1,4 @@
-# make_your_burger
+# Ta-na-Chapa
 
 ## Project setup
 ```
